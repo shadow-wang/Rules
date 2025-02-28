@@ -1,5 +1,5 @@
 # 规则名称: EmbyCN
-# 规则统计: 7
+# 规则统计: 10
 
 DOMAIN-SUFFIX,vip3.jellyfin.asia
 DOMAIN-SUFFIX,my.embylife.xyz
@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,celluloid.makima.online
 DOMAIN-SUFFIX,anime.makima.online
 DOMAIN-SUFFIX,cinema.makima.online
 DOMAIN-SUFFIX,theater.makima.online
+DOMAIN-SUFFIX,yyds.yezi.my
+DOMAIN-SUFFIX,yezi.hannn.me
+DOMAIN-SUFFIX,yezi.697758.best
