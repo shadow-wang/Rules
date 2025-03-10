@@ -1,5 +1,5 @@
 # 规则名称: EmbyOUT
-# 规则统计: 8
+# 规则统计: 7
 
 DOMAIN-SUFFIX,emby.kim
 DOMAIN-SUFFIX,beebi.org
@@ -8,4 +8,3 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,sfyzn2.mobaiemby.site
-DOMAIN-SUFFIX,super.yezi.my
