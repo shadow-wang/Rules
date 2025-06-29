@@ -1,6 +1,7 @@
 # 规则名称: DLER CN
-# 规则统计: 2
+# 规则统计: 4
 
-
+DOMAIN,dler.cloud
+DOMAIN,dler.pro
 DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,dler.pro
