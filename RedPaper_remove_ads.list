@@ -1,0 +1,8 @@
+[rewrite_local]
+
+^https:\/\/.*\.xiaohongshu\.com\/v\d+\/(note|system|user|recommend|interaction|search|follow|home|system_service|note\/video)\/.* url script-response-body https://raw.githubusercontent.com/RuCu6/Loon/main/Scripts/xiaohongshu.js
+
+^https:\/\/.*\.xiaohongshu\.com\/v2\/system_service\/splash_config url script-response-body https://raw.githubusercontent.com/RuCu6/Loon/main/Scripts/xiaohongshu.js
+
+[mitm]
+hostname = *.xiaohongshu.com, sns-img-qc.xhscdn.com
