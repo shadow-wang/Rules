@@ -1,7 +1,8 @@
 # 规则名称: EmbyCN
-# 规则统计: 21
+# 规则统计: 22
 
 DOMAIN-SUFFIX,enet.easyemby.com
+DOMAIN-SUFFIX,easyemby.com
 DOMAIN-SUFFIX,vip3.jellyfin.asia
 DOMAIN-SUFFIX,myzox.embylife.xyz
 DOMAIN-SUFFIX,my.embylife.xyz
