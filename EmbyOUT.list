@@ -1,8 +1,6 @@
 # 规则名称: EmbyOUT
-# 规则统计: 22
+# 规则统计: 25
 
-DOMAIN-SUFFIX,emby.kim
-DOMAIN-SUFFIX,beebi.org
 DOMAIN-SUFFIX,2pfdml.mobaiemby.site
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
@@ -25,3 +23,7 @@ DOMAIN-SUFFIX,bai2.yezi.my
 DOMAIN-SUFFIX,bai3.yezi.my
 DOMAIN-SUFFIX,rfc.uhdnow.com
 DOMAIN-SUFFIX,wuguimovie.com
+DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link01.okemby.org
+DOMAIN-SUFFIX,e00.yyssr.org
+DOMAIN-SUFFIX,e01.yyssr.org
